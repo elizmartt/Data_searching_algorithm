@@ -136,8 +136,8 @@ void printMatch(const Match& match, size_t matchNumber) {
 
 int main() {
     try {
-        const std::string sampleDirectory = "C:/Users/Eliza/CLionProjects/Data_searhing_testing/Sample";
-        const std::string dataDirectory = "C:/Users/Eliza/CLionProjects/Data_searhing_testing/Close";
+        const std::string sampleDirectory = "/Data_searhing_testing/Sample";
+        const std::string dataDirectory = "/Data_searhing_testing/Close";
         const double tolerance = 5000.0;
         const size_t maxMatches = 10;
 

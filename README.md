@@ -1,6 +1,6 @@
 # Time Series Similarity Search with Eigenvalues
 
-This project implements a time series similarity search algorithm using eigenvalues and eigenvector similarity. It reads time series data from CSV files, calculates eigenvalues, and identifies similar patterns between a sample time series and a larger dataset.
+This project implements a time series similarity search algorithm using eigenvalues and eigenvector similarity. It reads time series data from CSV files, calculates eigenvalues, and identifies similar patterns between a sample time series and a larger dataset.It also has the file that find matches without eigen values(C++,Python).
 
 ## Overview
 
